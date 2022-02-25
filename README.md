@@ -11,7 +11,7 @@
 <!-- PROJECT DESCRIPTION -->
 In this Microcontroller Applications project, I will be doing an **Arduino Based MIDI Controller** using Arduino Mega 2560. I have completed this project by myself and it worked suprisingly well. Competed in a design contest and won **second place**.
 
-[![](https://user-images.githubusercontent.com/91014375/155715698-1c502149-e41b-424a-a9af-3386f0ef14fc.JPG)](https://www.youtube.com/watch?v=ii_Ar1L6reU)  
+[![](https://user-images.githubusercontent.com/91014375/155703128-6179be56-26e7-4b24-b1f1-8854f98c0903.JPG)](https://www.youtube.com/watch?v=ii_Ar1L6reU)  
 [![](https://user-images.githubusercontent.com/91014375/155703079-b93c8b0b-ebb6-42dd-9d14-817c5e653eb3.png)](https://www.youtube.com/watch?v=ii_Ar1L6reU)
 
 ## Requirements
@@ -95,11 +95,14 @@ In here, I will explain the other steps I have taken to make the device less cap
 
 ![extrasteps](https://user-images.githubusercontent.com/91014375/155720772-67bb397a-507e-4f64-bd19-378b923cd68d.jpg)
 
+## Other Images of Project
+![IMG_0306](https://user-images.githubusercontent.com/91014375/155703104-91e88f0c-c0b3-4ef4-8f20-4b435597842d.JPG)
+![IMG_0307](https://user-images.githubusercontent.com/91014375/155703114-542532d1-17e9-4e84-b96c-f7b93fdfad3e.JPG)
+![IMG_0312](https://user-images.githubusercontent.com/91014375/155703120-e10153db-2ee3-4120-90d7-3c6b5363356a.JPG)
+![IMG_0314](https://user-images.githubusercontent.com/91014375/155703124-0e03d056-219a-4226-9d91-4a962d0ce45b.JPG)
+![](https://user-images.githubusercontent.com/91014375/155715698-1c502149-e41b-424a-a9af-3386f0ef14fc.JPG)
 
 <p align="center">
-  </div>
   More Coming Soon
-    <br />
-
-
-![PROJECT_YONDU_Logo](https://user-images.githubusercontent.com/91014375/155701599-c7715ec6-b693-4936-aedf-efa84dc7cbbf.png)
+    
+[![PROJECT_YONDU_Logo](https://user-images.githubusercontent.com/91014375/155701599-c7715ec6-b693-4936-aedf-efa84dc7cbbf.png)](https://www.youtube.com/channel/UCzvuaX9sKjKQwh_AGh2dW8g)
